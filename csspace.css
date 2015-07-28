@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.  {
+  border: 1px solid #000;
+  max-width: 640px;
+  margin: auto;
+}
+.  .   {
+  color: red;
+}
+.  .    {
+  color: blue;
+}
+.  .     {
+  color: green;
+}
+.  .      {
+  color: purple;
+  font-weight: bold;
+}
